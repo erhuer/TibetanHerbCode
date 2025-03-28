@@ -1,0 +1,8 @@
+train: Herb/images/train
+val: Herb/images/val
+test: Herb/images/test
+ 
+ 
+nc: 12
+names: ['Animal-based', 'Dunbu (Wetland Herb)-based', 'E (Dryland Herb)-based', 'Stone-based', 'Tree-based', 'Soil-based', 'Salt-Alkali-based', 'Treasure-based', 'Juice Essence-based', 'Crop-based', 'Fire-based', 'Processed']
+
